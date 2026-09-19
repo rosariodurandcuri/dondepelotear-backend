@@ -1,4 +1,4 @@
-# ChapaTuCancha — API (backend)
+# DondePelotear — API (backend)
 
 Backend de la plataforma: **Bun** (runtime) + **Elysia** (servidor HTTP) + **Prisma** (ORM) + **PostgreSQL** (base de datos).
 
@@ -103,7 +103,7 @@ Roles: `player`, `owner`, `admin` (el admin puede hacer todo lo que hace un prop
 | GET    | `/fields/:id/reviews`            | público      | Reseñas                                                 |
 | POST   | `/fields/:id/reviews`            | sesión       | Publicar reseña (solo si reservó allí)                  |
 | POST   | `/bookings`                      | opcional     | Reservar (`slots: ["10:00","14:00"]` o `startTime/endTime`) |
-| GET    | `/bookings/code/:code`           | público      | Consultar por código `CTC-2026-00125`                    |
+| GET    | `/bookings/code/:code`           | público      | Consultar por código `DP-2026-00125`                    |
 | POST   | `/bookings/lookup`               | público      | Varias reservas por código (invitados)                  |
 | GET    | `/bookings/me`                   | sesión       | Mis reservas (por cuenta o por correo)                  |
 | GET    | `/bookings/:id`                  | sesión       | Detalle                                                 |

@@ -156,7 +156,7 @@ model Availability {
 
 model Booking {
   id                   String        @id @default(cuid())
-  bookingCode          String        @unique // CTC-2026-00125
+  bookingCode          String        @unique // DP-2026-00125
   userId               String?       // null cuando reserva un invitado sin cuenta
   user                 User?         @relation(fields: [userId], references: [id], onDelete: SetNull)
   fieldId              String
@@ -213,7 +213,7 @@ model Favorite {
   @@map("favorites")
 }
 
-/// Contadores correlativos (ej. número de reserva para el código CTC-2026-00125)
+/// Contadores correlativos (ej. número de reserva para el código DP-2026-00125)
 model Counter {
   key   String @id
   value Int    @default(0)

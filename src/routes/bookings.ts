@@ -21,13 +21,13 @@ const PHONE_RE = /^\+?\d[\d\s-]{7,14}$/;
 const SLOT = APP_CONFIG.slotDurationMinutes;
 
 const customerSchema = t.Object({
-  firstName: t.String({ minLength: 1, error: 'Ingresa tu nombre y apellido.' }),
-  lastName: t.String({ minLength: 1, error: 'Ingresa tu nombre y apellido.' }),
+  firstName: t.String({ minLength: 2, error: 'Ingresa tu nombre.' }),
+  lastName: t.Optional(t.String()), // opcional: el formulario solo pide nombre y teléfono
   phone: t.String({ pattern: PHONE_RE.source, error: 'Ingresa un teléfono válido (9 dígitos).' }),
-  email: t.String({ format: 'email', error: 'Ingresa un correo válido.' }),
+  email: t.Optional(t.Union([t.Literal(''), t.String({ format: 'email', error: 'Ingresa un correo válido.' })])), // opcional
 });
 
-/** Código: CTC-2026-00125 (contador atómico en la tabla counters) */
+/** Código: DP-2026-00125 (contador atómico en la tabla counters) */
 async function nextBookingCode(tx: Prisma.TransactionClient) {
   const counter = await tx.counter.upsert({ where: { key: 'booking' }, update: { value: { increment: 1 } }, create: { key: 'booking', value: 1 } });
   return `${APP_CONFIG.codePrefix}-${new Date().getFullYear()}-${String(counter.value).padStart(5, '0')}`;
@@ -96,9 +96,9 @@ export const bookingRoutes = new Elysia({ prefix: '/bookings', tags: ['Reservas'
             totalPrice,
             status: 'CONFIRMED',
             customerFirstName: body.customer.firstName.trim(),
-            customerLastName: body.customer.lastName.trim(),
+            customerLastName: (body.customer.lastName || '').trim(),
             customerPhone: body.customer.phone.trim(),
-            customerEmail: body.customer.email.trim().toLowerCase(),
+            customerEmail: (body.customer.email || '').trim().toLowerCase(),
             paymentMethod,
             paymentStatus: payment.status === 'APPROVED' ? 'PAID' : 'PENDING',
             paymentTransactionId: payment.transactionId,

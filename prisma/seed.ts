@@ -35,7 +35,7 @@ export const USERS: { id: string; name: string; email: string; phone: string; ro
   { id: 'u9', name: 'Valeria Castro', email: 'valeria@demo.com', phone: '912888999', role: 'PLAYER', createdAt: '2026-08-12T10:00:00Z' },
   { id: 'u10', name: 'Renzo Salazar', email: 'renzo@demo.com', phone: '933444555', role: 'PLAYER', createdAt: '2026-08-14T10:00:00Z' },
   // Cuenta que agrupa las canchas del directorio que ningún propietario ha reclamado todavía
-  { id: 'u_directorio', name: 'Directorio ChapaTuCancha', email: 'directorio@demo.com', phone: '', role: 'OWNER', createdAt: '2026-07-01T10:00:00Z' },
+  { id: 'u_directorio', name: 'Directorio DondePelotear', email: 'directorio@demo.com', phone: '', role: 'OWNER', createdAt: '2026-07-01T10:00:00Z' },
 ];
 
 // ---------------------------------------------------------------- FIELDS (datos reales)
@@ -164,7 +164,7 @@ export function buildBookings() {
     const c = customer || { firstName: user.name.split(' ')[0], lastName: user.name.split(' ')[1] || '', phone: user.phone, email: user.email };
     bookings.push({
       id: `b${counter}`,
-      bookingCode: `CTC-2026-${String(counter).padStart(5, '0')}`,
+      bookingCode: `DP-2026-${String(counter).padStart(5, '0')}`,
       userId, fieldId: field.id, date,
       startTime: start, endTime,
       slots: [{ startTime: start, endTime }],

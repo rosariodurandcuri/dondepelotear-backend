@@ -7,8 +7,8 @@
 import { COUNTRIES } from './countries.ts';
 
 export const APP_CONFIG = {
-  name: 'ChapaTuCancha',
-  codePrefix: 'CTC',              // Códigos de reserva: CTC-2026-00125
+  name: 'DondePelotear',
+  codePrefix: 'DP',               // Códigos de reserva: DP-2026-00125
   defaultCountry: 'PE' as const,
   slotDurationMinutes: 60,        // Duración de cada horario reservable
   daysAheadForBooking: 14,        // Cuántos días hacia adelante se puede reservar
