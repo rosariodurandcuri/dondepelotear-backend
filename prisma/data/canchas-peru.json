@@ -1,0 +1,4602 @@
+{
+  "meta": {
+    "title": "Canchas de fútbol para alquilar en el Perú",
+    "generatedAt": "2026-09-18",
+    "country": "PE",
+    "currency": "PEN",
+    "total": 166,
+    "byDepartment": {
+      "Lima": 132,
+      "Callao": 10,
+      "Arequipa": 6,
+      "La Libertad": 8,
+      "Cusco": 6,
+      "Lambayeque": 3,
+      "Piura": 1
+    },
+    "disclaimer": "Datos recopilados de directorios públicos en internet (ver 'source' en cada registro). Teléfonos y precios pueden estar desactualizados; verificar antes de reservar. 'pricePerHour' null = no publicado. Coordenadas no incluidas: usar getCoordinates() por distrito o geocodificar la dirección.",
+    "fieldTypes": {
+      "F5": "Fútbol 5 / fulbito",
+      "F6": "Fútbol 6",
+      "F7": "Fútbol 7",
+      "F9": "Fútbol 9",
+      "F11": "Fútbol 11"
+    },
+    "services": {
+      "lighting": "Iluminación",
+      "parking": "Estacionamiento",
+      "lockers": "Camerinos",
+      "showers": "Duchas",
+      "restrooms": "Baños",
+      "cafeteria": "Cafetería",
+      "stands": "Tribunas"
+    },
+    "sources": [
+      "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)",
+      "https://deporplaza.com/instalaciones/",
+      "https://www.deperu.com/esparcimiento/campos-deportivos/",
+      "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296",
+      "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384",
+      "https://www.hoysejuega.com/listado-canchas.htm?tipo_suelo=1&pais=10"
+    ],
+    "contactsUpdated": "2026-09-18: segunda búsqueda dirigida a canchas sin teléfono (deperu.com, PlanetaPerú, Nexdu, Facebook, sitios propios)"
+  },
+  "fields": [
+    {
+      "id": "pe-001",
+      "name": "Deporzeta",
+      "address": "Av. Javier Prado Este 7596, Puerta 7 Estadio Monumental",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Ate",
+      "country": "PE",
+      "phones": [
+        "934 617 095",
+        "640 8514",
+        "(01) 359 6899"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 120,
+        "max": 400,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-002",
+      "name": "Marceti Club",
+      "address": "Av. Húsares de Junín Mz. E Lt. 6, Urb. Barbadillo",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Ate",
+      "country": "PE",
+      "phones": [
+        "351 2729",
+        "998 476 733"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 80,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-003",
+      "name": "Sport Plaza",
+      "address": "Av. Nicolás Ayllón 3080",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Ate",
+      "country": "PE",
+      "phones": [
+        "719 5850",
+        "990 121 821"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 3,
+      "pricePerHour": {
+        "min": 80,
+        "max": 140,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-004",
+      "name": "La Cantera F7",
+      "address": "Av. Miguel Grau 494",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Ate",
+      "country": "PE",
+      "phones": [
+        "426 3407",
+        "990 566 444"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-005",
+      "name": "Sport Center Tilda",
+      "address": "Mz. M Lt. 13, Urb. Tilda, Ate Vitarte",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Ate",
+      "country": "PE",
+      "phones": [
+        "987 176 771"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-006",
+      "name": "Sport 21",
+      "address": "Av. Los Virreyes Mz. B Lt. 12, Urb. Zavaleta",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Ate",
+      "country": "PE",
+      "phones": [
+        "995 209 946"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-007",
+      "name": "Super Golazo Breña",
+      "address": "Jr. Aguarico cdra. 12",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Breña",
+      "country": "PE",
+      "phones": [
+        "982 701 001",
+        "982 058 487"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 100,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-008",
+      "name": "El Centenario de Breña",
+      "address": "Calle Centenario 348",
+      "reference": "Alt. cdra. 7 Av. Brasil",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Breña",
+      "country": "PE",
+      "phones": [
+        "424 1993"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-009",
+      "name": "Instituto Esesuli",
+      "address": "Jr. Recuay 976",
+      "reference": "Cdra. 14 Av. Venezuela",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Breña",
+      "country": "PE",
+      "phones": [
+        "424 2429"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-010",
+      "name": "La Cancha – Club Venezuela",
+      "address": "Av. Venezuela 1179, 5to piso",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Breña",
+      "country": "PE",
+      "phones": [
+        "631 2199"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F5",
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "Cancha en azotea",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-011",
+      "name": "Complejo Marianito",
+      "address": "Jr. Justa García Robledo 246 B",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Breña",
+      "country": "PE",
+      "phones": [
+        "941 714 018"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-012",
+      "name": "Cancha Sintética Barbones",
+      "address": "El Agustino",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "El Agustino",
+      "country": "PE",
+      "phones": [
+        "976 134 369"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-013",
+      "name": "Campo Militar de Salaverry (Círculo Militar)",
+      "address": "Av. Salaverry s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "628 0171",
+        "989 591 633"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-014",
+      "name": "Circolo Sportivo Italiano",
+      "address": "Av. Juan Pablo Fernandini 1530",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "203 7890",
+        "431 1011"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "showers"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-015",
+      "name": "Club Lawn Tennis de la Exposición",
+      "address": "Av. República de Chile 254",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "434 3817",
+        "(511) 512 6000"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "showers"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-016",
+      "name": "Complejo Deportivo Túpac Amaru",
+      "address": "Av. Cueva 300 esq. Chimú",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "261 9154"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-017",
+      "name": "Estadio Municipal Campo de Marte",
+      "address": "Campo de Marte",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "684 9567"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-018",
+      "name": "Complejo Deportivo Los Andes",
+      "address": "Jr. Nazca s/n, Estadio Municipal Campo de Marte",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "403 6463"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 125,
+        "max": 168,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-019",
+      "name": "Sport Maracanazo",
+      "address": "Av. Brasil 661",
+      "reference": "Frente al Hospital del Niño",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "333 1540"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-020",
+      "name": "San Felipao (Colegio San Felipe)",
+      "address": "Av. Gregorio Escobedo s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "981 593 852"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-021",
+      "name": "El Santi",
+      "address": "Av. Arnaldo Márquez 1260",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "788 0030"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-022",
+      "name": "Entrepelotas Club",
+      "address": "Av. Los Frutales 561, Urb. Los Artesanos",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "250 0244",
+        "994 280 263"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 2,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "cafeteria"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-023",
+      "name": "La Caleta La Molina",
+      "address": "Av. La Molina s/n esq. Calle 11",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "981 134 378",
+        "981 320 142"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 80,
+        "max": 120,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-024",
+      "name": "Super Golazo La Molina",
+      "address": "Calle Las Bahamas 255, Urb. El Sol de La Molina",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "981 299 528"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 90,
+        "max": 90,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-025",
+      "name": "Centro Deportivo Real La Molina",
+      "address": "Calle Río Ucayali Mz. H",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "365 0204",
+        "989 156 827"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-026",
+      "name": "El Gramado",
+      "address": "Av. La Arboleda 385, Urb. Los Sirius",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "989 112 242",
+        "419 7039"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 120,
+        "max": 160,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-027",
+      "name": "L'Espace (Colegio La Recoleta)",
+      "address": "Av. El Golf Los Incas 318-326",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "987 025 090"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 100,
+        "max": 120,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-028",
+      "name": "La Rotonda Fútbol Total",
+      "address": "Av. La Fontana 458",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "340 1160",
+        "942 60 994"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 80,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-029",
+      "name": "Cancha Sports",
+      "address": "Av. La Molina 634",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Molina",
+      "country": "PE",
+      "phones": [
+        "437 4707"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-030",
+      "name": "La Principal del Túpac",
+      "address": "Av. Del Aire 601",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Victoria",
+      "country": "PE",
+      "phones": [
+        "934 982 206"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-031",
+      "name": "Gol.com (Colegio Pedro Labarthe)",
+      "address": "Av. México 2048",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Victoria",
+      "country": "PE",
+      "phones": [
+        "947 102 296"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-032",
+      "name": "Matute Gol",
+      "address": "Av. Abtao cdra. 8",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Victoria",
+      "country": "PE",
+      "phones": [
+        "400 1158",
+        "617 1499"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 90,
+        "max": 120,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-033",
+      "name": "Tiro Libre",
+      "address": "Av. Raimondi 255",
+      "reference": "Frente a Polvos Azules",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "La Victoria",
+      "country": "PE",
+      "phones": [
+        "773 0790",
+        "993 682 892"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-034",
+      "name": "Estadio Nacional (canchas auxiliares)",
+      "address": "Calle José Díaz s/n, Puerta 29, Santa Beatriz",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lima",
+      "country": "PE",
+      "phones": [
+        "424 2637",
+        "433 4192"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-035",
+      "name": "Campo Ocoña",
+      "address": "Jr. Ocoña 224, 4to piso",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lima",
+      "country": "PE",
+      "phones": [
+        "628 0171",
+        "989 591 633"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F5",
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 70,
+        "max": 70,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-036",
+      "name": "Soccer Club del Perú",
+      "address": "Av. Luis Braille 12",
+      "reference": "Alt. cdra. 19 Av. Colonial",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lima",
+      "country": "PE",
+      "phones": [
+        "336 6623",
+        "994 200 407"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-037",
+      "name": "El Fanático",
+      "address": "Av. Camaná 1148 / Av. Uruguay 191, 5to piso",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lima",
+      "country": "PE",
+      "phones": [
+        "994 002 582"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F5",
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 100,
+        "max": 120,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-038",
+      "name": "El Bernabéu 2",
+      "address": "Jr. Oroya 198 esq. Jr. Huancavelica",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lima",
+      "country": "PE",
+      "phones": [
+        "423 7331"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-039",
+      "name": "El Bernabéu",
+      "address": "Av. España 342",
+      "reference": "Frente a la DIRINCRI",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lima",
+      "country": "PE",
+      "phones": [
+        "423 7426"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-040",
+      "name": "Club Maracaná",
+      "address": "Complejo Mariscal Castilla",
+      "reference": "Alt. cdra. 9 Joaquín Bernal",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lince",
+      "country": "PE",
+      "phones": [
+        "472 6825"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 60,
+        "max": 80,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-041",
+      "name": "Deporplaza Costa Verde",
+      "address": "Circuito de Playas s/n, alt. bajada Marbella",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Magdalena del Mar",
+      "country": "PE",
+      "phones": [
+        "(511) 263 5428"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 8,
+      "pricePerHour": {
+        "min": 40,
+        "max": 60,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "15:00-00:00",
+        "weekends": "07:00-00:00"
+      },
+      "notes": "",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-042",
+      "name": "Deporplaza Puericultorio",
+      "address": "Av. Del Ejército 700, Puericultorio Pérez Araníbar",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Magdalena del Mar",
+      "country": "PE",
+      "phones": [
+        "950 106 276",
+        "950 105 849"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-043",
+      "name": "Villa Sport Club",
+      "address": "Enrique Caballero 376",
+      "reference": "Cdra. 24 Av. Tomás Marsano",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Miraflores",
+      "country": "PE",
+      "phones": [
+        "451 0001"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 80,
+        "max": 140,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-044",
+      "name": "Estadio Niño Héroe Manuel Bonilla",
+      "address": "Av. Del Ejército 1300",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Miraflores",
+      "country": "PE",
+      "phones": [
+        "617 7375",
+        "982 054 121"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "stands"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-045",
+      "name": "Complejo Deportivo Chino Vásquez",
+      "address": "Malecón de la Marina, alt. Parque María Reiche",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Miraflores",
+      "country": "PE",
+      "phones": [
+        "617 7286"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 100,
+        "max": 150,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": {
+        "all": "08:00-22:00"
+      },
+      "notes": "",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-046",
+      "name": "Complejo Deportivo San Jorge",
+      "address": "Av. Montagne 360",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Miraflores",
+      "country": "PE",
+      "phones": [
+        "628 0171",
+        "989 054 902",
+        "989 591 633"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 80,
+        "max": 150,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "lighting",
+        "lockers",
+        "parking"
+      ],
+      "schedule": {
+        "weekdays": "18:30-23:30",
+        "weekends": "08:30-23:30"
+      },
+      "notes": "L-V noche S/150; sáb-dom día S/80, noche S/100. Web: futbolenlima.com",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-047",
+      "name": "Club de Trabajadores del BCRP",
+      "address": "Calle Diego Medina 295",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Pueblo Libre",
+      "country": "PE",
+      "phones": [
+        "460 0690"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-048",
+      "name": "Asociación Estadio La Unión",
+      "address": "Jr. Paracas 565",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Pueblo Libre",
+      "country": "PE",
+      "phones": [
+        "461 1221",
+        "461 0585"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 150,
+        "max": 380,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "showers",
+        "stands"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-049",
+      "name": "Despelote FC (Colegio Simón Bolívar)",
+      "address": "Av. Bertello cdra. 7",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Pueblo Libre",
+      "country": "PE",
+      "phones": [
+        "451 0001",
+        "960 181 619"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 30,
+        "max": 82,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-050",
+      "name": "Centenario FC (Colegio Pedro Gálvez Egúsquiza)",
+      "address": "Jr. Emilio Rossel 670, Urb. Las Brisas",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Pueblo Libre",
+      "country": "PE",
+      "phones": [
+        "451 0001",
+        "960 181 619"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-051",
+      "name": "Torre Tagle",
+      "address": "Jr. José Manuel Ugarteche cdra. 1",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Pueblo Libre",
+      "country": "PE",
+      "phones": [
+        "460 5834",
+        "202 3894"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-052",
+      "name": "Arena 7 (Colegio Andrés Bello)",
+      "address": "Av. La Marina cdra. 11",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Pueblo Libre",
+      "country": "PE",
+      "phones": [
+        "360 8799"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-053",
+      "name": "Polideportivo Rosa Toro",
+      "address": "Av. Agustín La Rosa Toro 1315",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "784 1547"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 120,
+        "max": 140,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "Municipal: día S/120, noche S/140",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-054",
+      "name": "El Centenario de San Borja",
+      "address": "Calle Eduardo Ordóñez cdra. 3",
+      "reference": "Alt. cdra. 34 Av. Aviación",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "962 780 440",
+        "988 598 067"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 110,
+        "max": 150,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-055",
+      "name": "Complejo Deportivo Liceo Naval",
+      "address": "Liceo Naval Puerta 3, alt. cdra. 24 Av. San Luis",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "514 2252"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-056",
+      "name": "Club Los Leones",
+      "address": "Calle Siete 170, Urb. Monterrico Norte",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "652 4939",
+        "989 583 294"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-057",
+      "name": "Complejo Deportivo Juan XXIII",
+      "address": "Calle Gamma s/n, Urb. Juan XXIII",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "225 5986"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-058",
+      "name": "Penta Gol",
+      "address": "Av. Esmeralda s/n, Puerta 5",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "971 855 556"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-059",
+      "name": "Complejo Deportivo Rosa Toro",
+      "address": "Av. Agustín La Rosa Toro con Av. Javier Prado",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "224 4279"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-060",
+      "name": "Complejo Deportivo Limatambo",
+      "address": "Av. Malachowski 560, Torres de Limatambo",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Borja",
+      "country": "PE",
+      "phones": [
+        "952 392 136",
+        "(01) 224 4279"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F5"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 20,
+        "max": 40,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": {
+        "all": "06:00-23:00"
+      },
+      "notes": "Futsal/losa sintética; día S/20, noche S/40. Polideportivo municipal de San Borja",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-061",
+      "name": "Colegio San Agustín",
+      "address": "Cruce Pablo Carriquiry con Castañitas",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Isidro",
+      "country": "PE",
+      "phones": [
+        "616 4242 anx. 1121"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-062",
+      "name": "Estadio de San Isidro",
+      "address": "Av. Pérez Araníbar 1595 (ex Av. Del Ejército)",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Isidro",
+      "country": "PE",
+      "phones": [
+        "513 9000 anx. 6815"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "stands"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-063",
+      "name": "La 7 San Luis",
+      "address": "Jr. Río Piura s/n",
+      "reference": "Espalda de la Videna, 1 cdra. de Av. Del Aire",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Luis",
+      "country": "PE",
+      "phones": [
+        "941 505 519"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-064",
+      "name": "Videna (canchas)",
+      "address": "Av. Del Aire cdra. 8 con Av. Aviación cdra. 20",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Luis",
+      "country": "PE",
+      "phones": [
+        "981 425 553"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-065",
+      "name": "Deporplaza San Luis",
+      "address": "Av. Mariscal Domingo Nieto s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Luis",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F6",
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 8,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "14:00-00:00",
+        "weekends": "08:00-00:00"
+      },
+      "notes": "Sin línea propia publicada; central Deporplaza: 953 901 235 (sede Jockey)",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-066",
+      "name": "Complejo Deportivo La 9",
+      "address": "Av. Venezuela cdra. 34 s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "981 318 399",
+        "960 181 619"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-067",
+      "name": "Complejo Miramar",
+      "address": "Jr. Coronel Inclán 285",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "566 1589",
+        "994 015 822"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-068",
+      "name": "Santa Florencia",
+      "address": "Av. Cueva s/n",
+      "reference": "2 cdras. detrás del Colegio Bartolomé Herrera",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "263 0750"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-069",
+      "name": "La Canchita (Colegio Bartolomé Herrera)",
+      "address": "Av. La Marina cdra. 11 s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "997 240 305",
+        "409 9881"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-070",
+      "name": "Julio Meléndez",
+      "address": "Martín de Murúa con Luis Banchero Rossi",
+      "reference": "Espalda de Hiraoka",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "464 5204"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-071",
+      "name": "Centro Recreacional Rey Juan Carlos I",
+      "address": "Av. Juan Bertolotto 799",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "263 1286"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-072",
+      "name": "Campo Deportivo Juan Joya Cordero",
+      "address": "Av. Bertolotto cdra. 7",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "263 8053"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-073",
+      "name": "Campo Deportivo Julio C. Tello",
+      "address": "Alameda Julio C. Tello",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "208 5830"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-074",
+      "name": "Campo Deportivo Paul Harris",
+      "address": "Calle Isidro Suárez cdra. 6",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "208 5830",
+        "263 6552"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-075",
+      "name": "Campo Deportivo Lolo Fernández",
+      "address": "Calle Casuarinas y Nogales, Pando IX",
+      "reference": "Alt. cdra. 22 Av. Riva Agüero",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "208 5830"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-076",
+      "name": "Estadio Municipal Adelfo Magallanes",
+      "address": "Jr. Gamarra s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "578 6880"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "stands"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-077",
+      "name": "Asociación de Residentes Pando I Etapa (ARUP)",
+      "address": "Pedro Villar Córdova 222, Urb. Pando I Etapa",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "561 9575"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-078",
+      "name": "Hogar de Cristo",
+      "address": "Av. Lima cdra. 8 s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "125 0894"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-079",
+      "name": "Cancha La 10 San Miguel",
+      "address": "Av. La Marina cdra. 35 s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Miguel",
+      "country": "PE",
+      "phones": [
+        "452 1844"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-080",
+      "name": "La Once",
+      "address": "Av. Tomás Marsano 630",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Surquillo",
+      "country": "PE",
+      "phones": [
+        "445 7819",
+        "998 311 001"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-081",
+      "name": "La Bombonera F7",
+      "address": "Av. Angamos Este 1551, 3er piso, C.C. Plaza Hogar",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Surquillo",
+      "country": "PE",
+      "phones": [
+        "446 3940",
+        "998 230 781"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 3,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-082",
+      "name": "Clubcito",
+      "address": "Jr. Morococha 239",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Surquillo",
+      "country": "PE",
+      "phones": [
+        "652 7385",
+        "954 184 280"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-083",
+      "name": "Cancha Sintética Galería Montero",
+      "address": "Lizardo Montero 760",
+      "reference": "Frente al Mercado 2",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Surquillo",
+      "country": "PE",
+      "phones": [
+        "991 031 531",
+        "997 115 284"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F5",
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-084",
+      "name": "La 10 – Sede Angamos",
+      "address": "Jr. Pablo Neruda 110",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Surquillo",
+      "country": "PE",
+      "phones": [
+        "271 6033"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-085",
+      "name": "La 10 – Sede Estadio Surquillo",
+      "address": "Jr. La Calera de La Merced 177",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Surquillo",
+      "country": "PE",
+      "phones": [
+        "271 7261"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-086",
+      "name": "La 10 – Sede Tomás Marsano",
+      "address": "Av. Tomás Marsano 1411",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Surquillo",
+      "country": "PE",
+      "phones": [
+        "273 7653"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-de-fulbito-para-pichanguear-en-lima-179296"
+    },
+    {
+      "id": "pe-087",
+      "name": "Fútbol Plaza",
+      "address": "Av. La República 180",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Santiago de Surco",
+      "country": "PE",
+      "phones": [
+        "981 322 060"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6",
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking"
+      ],
+      "schedule": {
+        "all": "07:00-22:30"
+      },
+      "notes": "Reservas online hasta 6 días de anticipación. Web: futbolplaza.com.pe",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)",
+      "whatsapp": "981322060"
+    },
+    {
+      "id": "pe-088",
+      "name": "Deporplaza Jockey Club",
+      "address": "Av. El Derby s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Santiago de Surco",
+      "country": "PE",
+      "phones": [
+        "953 901 235"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 14,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "all": "06:00-00:00"
+      },
+      "notes": "",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-089",
+      "name": "El Golazo Surco",
+      "address": "Av. Circunvalación del Club Golf Los Incas 246",
+      "reference": "Frente a Wong de Camacho",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Santiago de Surco",
+      "country": "PE",
+      "phones": [
+        "(01) 226 6667"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 2,
+      "pricePerHour": null,
+      "services": [
+        "cafeteria",
+        "lighting",
+        "lockers"
+      ],
+      "schedule": null,
+      "notes": "Reservas por WhatsApp vía Instagram @canchas_elgolazo",
+      "source": "https://www.hoysejuega.com/listado-canchas.htm?tipo_suelo=1&pais=10"
+    },
+    {
+      "id": "pe-090",
+      "name": "Macho Center",
+      "address": "Av. Jacarandá cdra. 6, Valle Hermoso",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Santiago de Surco",
+      "country": "PE",
+      "phones": [
+        "(01) 344 4540"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 2,
+      "pricePerHour": {
+        "min": 150,
+        "max": 180,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting",
+        "lockers",
+        "parking",
+        "showers"
+      ],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "Día S/150, noche S/180. Web: machocenter.com",
+      "source": "https://www.hoysejuega.com/listado-canchas.htm?tipo_suelo=1&pais=10"
+    },
+    {
+      "id": "pe-091",
+      "name": "Country Club Chama",
+      "address": "Calle Enrique León García 559",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Santiago de Surco",
+      "country": "PE",
+      "phones": [
+        "(01) 273 6272",
+        "993 464 046"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "cafeteria",
+        "lighting",
+        "lockers",
+        "parking",
+        "showers"
+      ],
+      "schedule": {
+        "all": "10:00-23:00"
+      },
+      "notes": "Email: countryclubchama@hotmail.com",
+      "source": "https://www.hoysejuega.com/listado-canchas.htm?tipo_suelo=1&pais=10"
+    },
+    {
+      "id": "pe-092",
+      "name": "Complejo La Caleta 2",
+      "address": "Av. Los Próceres cdra. 5",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Santiago de Surco",
+      "country": "PE",
+      "phones": [
+        "(01) 715 2803"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 2,
+      "pricePerHour": {
+        "min": 120,
+        "max": 140,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "lighting",
+        "lockers"
+      ],
+      "schedule": {
+        "all": "06:00-02:00"
+      },
+      "notes": "Día S/120, noche S/140. Web: lacaletadeloco.com",
+      "source": "https://www.hoysejuega.com/listado-canchas.htm?tipo_suelo=1&pais=10"
+    },
+    {
+      "id": "pe-093",
+      "name": "Centro Deportivo San Francisco",
+      "address": "Av. Pachacútec 4850, Tablada de Lurín",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Villa María del Triunfo",
+      "country": "PE",
+      "phones": [
+        "(01) 719 1366",
+        "992 544 116"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6"
+      ],
+      "courts": 3,
+      "pricePerHour": {
+        "min": 50,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "lighting",
+        "lockers",
+        "parking",
+        "restrooms"
+      ],
+      "schedule": {
+        "all": "07:00-23:00"
+      },
+      "notes": "Día S/50, noche S/100",
+      "source": "https://www.hoysejuega.com/listado-canchas.htm?tipo_suelo=1&pais=10"
+    },
+    {
+      "id": "pe-094",
+      "name": "Campo Rímac",
+      "address": "Alameda de los Descalzos",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Rímac",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 3,
+      "pricePerHour": null,
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "Solo se encontró un ID Nextel antiguo (126*8792), sin teléfono vigente",
+      "source": "https://www.hoysejuega.com/listado-canchas.htm?tipo_suelo=1&pais=10"
+    },
+    {
+      "id": "pe-095",
+      "name": "Deporplaza Juan Pablo Vizcardo y Guzmán",
+      "address": "Jr. Pedro Garezón s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Lima",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 7,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "15:00-00:00",
+        "weekends": "08:00-00:00"
+      },
+      "notes": "Sin línea propia publicada; central Deporplaza: 953 901 235 (sede Jockey)",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-096",
+      "name": "Deporplaza Campo de Marte",
+      "address": "Jr. Nazca s/n",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "980 650 752"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6",
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 12,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "15:00-23:00",
+        "weekends": "06:00-23:00"
+      },
+      "notes": "",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-097",
+      "name": "Deporplaza Matamula",
+      "address": "Jr. Belisario Flores 900",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Jesús María",
+      "country": "PE",
+      "phones": [
+        "980 661 802"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6"
+      ],
+      "courts": 5,
+      "pricePerHour": {
+        "min": 70,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "15:00-23:00",
+        "weekends": "08:00-23:00"
+      },
+      "notes": "",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-098",
+      "name": "Deporplaza San Juan de Lurigancho",
+      "address": "Calle Río Azul cdra. 1, Paradero 10",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Juan de Lurigancho",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 9,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "15:00-00:00",
+        "weekends": "07:00-00:00"
+      },
+      "notes": "Sin línea propia publicada; central Deporplaza: 953 901 235 (sede Jockey)",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-099",
+      "name": "Deporplaza Politécnico EE.UU.",
+      "address": "Av. El Maestro Peruano cdra. 1",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Comas",
+      "country": "PE",
+      "phones": [
+        "967 799 040"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6",
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 12,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "15:00-00:00",
+        "weekends": "07:00-00:00"
+      },
+      "notes": "",
+      "source": "https://deporplaza.com/instalaciones/"
+    },
+    {
+      "id": "pe-100",
+      "name": "Complejo Sorana",
+      "address": "Alameda Los Misioneros s/n, Ciudad Satélite Santa Rosa",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Callao",
+      "country": "PE",
+      "phones": [
+        "955 145 437"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-101",
+      "name": "APRUSJ Complejo Deportivo",
+      "address": "Calle Miguel Zamora 151, Urb. San Joaquín",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Bellavista",
+      "country": "PE",
+      "phones": [
+        "452 5055"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-102",
+      "name": "Fútbol Center Minka",
+      "address": "Av. Argentina 3093, C.C. Minka 2do piso",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Callao",
+      "country": "PE",
+      "phones": [
+        "465 3415"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "cafeteria"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-103",
+      "name": "Campo Deportivo Universal",
+      "address": "Av. Santa Rosa 580",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "La Perla",
+      "country": "PE",
+      "phones": [
+        "429 9564",
+        "989 301 240"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-104",
+      "name": "La Pichanguita",
+      "address": "Jr. Grau 245-299",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Bellavista",
+      "country": "PE",
+      "phones": [
+        "453 7773"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-105",
+      "name": "La Chalaca",
+      "address": "Av. La Marina 4511",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "La Perla",
+      "country": "PE",
+      "phones": [
+        "457 5600",
+        "990 290 941"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-106",
+      "name": "Cancha ISTP Simón Bolívar",
+      "address": "Calle 3 Nro. 100, Urb. Ciudad del Pescador",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Bellavista",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "Reservas: reservas@entrelineasperu.com",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-107",
+      "name": "Aventura Soccer Bellavista",
+      "address": "Mall Aventura Plaza Bellavista, Av. Colonial",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Bellavista",
+      "country": "PE",
+      "phones": [
+        "946 087 558",
+        "988 248 269"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "cafeteria"
+      ],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-108",
+      "name": "JV Mario Polar Ugarteche",
+      "address": "Parque Mario Polar Ugarteche",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Callao",
+      "country": "PE",
+      "phones": [
+        "991 893 632"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-109",
+      "name": "Deporplaza Politécnico del Callao",
+      "address": "Av. Elmer Faucett cdra. 7 s/n, Urb. Dulanto",
+      "reference": "",
+      "department": "Callao",
+      "province": "Callao",
+      "district": "Callao",
+      "country": "PE",
+      "phones": [
+        "944 402 620"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F9",
+        "F11"
+      ],
+      "courts": 9,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "stands",
+        "cafeteria",
+        "restrooms"
+      ],
+      "schedule": {
+        "weekdays": "15:00-00:00",
+        "weekends": "07:00-00:00"
+      },
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-110",
+      "name": "El Remanso",
+      "address": "Los Huertos de Tungasuca Lt. 67, Km 4.5 Av. Trapiche",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Comas",
+      "country": "PE",
+      "phones": [
+        "543 6053",
+        "998 346 515"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 80,
+        "max": 120,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-111",
+      "name": "Peloterópolis",
+      "address": "Av. Trapiche 12-B",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Comas",
+      "country": "PE",
+      "phones": [
+        "557 6144"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 60,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-112",
+      "name": "Campo Deportivo El Misti",
+      "address": "Av. Trapiche Lt. 16-B, Km 22",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Comas",
+      "country": "PE",
+      "phones": [
+        "551 7626"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-113",
+      "name": "La Bombonera de Trapiche",
+      "address": "Av. Trapiche Km 4.3, Los Huertos de Tungasuca",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Comas",
+      "country": "PE",
+      "phones": [
+        "967 733 141"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-114",
+      "name": "Campo Deportivo Los Inkas Jamaica",
+      "address": "Av. Jamaica 151, Urb. San Agustín",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Comas",
+      "country": "PE",
+      "phones": [
+        "524 8435"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-115",
+      "name": "La Cantera Independencia",
+      "address": "Av. Industrial 3652",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Independencia",
+      "country": "PE",
+      "phones": [
+        "542 3570",
+        "485 1848"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-116",
+      "name": "Gol Plaza",
+      "address": "Av. Pacífico 431",
+      "reference": "Junto a Mega Plaza (IPCNA)",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Independencia",
+      "country": "PE",
+      "phones": [
+        "523 0549",
+        "945 438 600"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-117",
+      "name": "Complejo Deportivo San Pío X",
+      "address": "Av. Manuel González Prada 269",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "998 358 064",
+        "794 8024"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 4,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-118",
+      "name": "Colegio José Abelardo Quiñones",
+      "address": "Cruce Jr. Antonio Cabo y Tomás Catari",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "533 2269",
+        "699 4037"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-119",
+      "name": "Deport Center",
+      "address": "Jr. Antonio Cabo cdra. 5",
+      "reference": "Espaldas del Estadio Guadalupano",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "407 0902"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-120",
+      "name": "De Punta al Gol (Colegio Próceres de la Independencia)",
+      "address": "Km 19.5 Panamericana Norte",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "975 556 788"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-121",
+      "name": "El Golazo Los Olivos",
+      "address": "Av. Antúnez de Mayolo 1556",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "967 831 111"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-122",
+      "name": "Cancha Sintética Champions",
+      "address": "Av. 2 de Octubre con Av. Santa Elvira",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "969 740 409",
+        "990 661 668"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-123",
+      "name": "Camp Nou Los Olivos",
+      "address": "Av. Central 465, Urb. Santa Luisa 2da etapa",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "943 586 064"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-124",
+      "name": "Mundo Gol",
+      "address": "Calles Abel Zela y Esteban Giles, Urb. Villa Sol II Etapa",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "947 931 875"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-125",
+      "name": "Complejo Deportivo Los Olivos",
+      "address": "Jr. Las Flores s/n, Urb. Los Naranjos III etapa",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "521 6257",
+        "996 419 067"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-126",
+      "name": "Estadio Guadalupano",
+      "address": "Av. Angélica Gamarra cdra. 2",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [
+        "995 581 642"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-127",
+      "name": "La 12 Lima Norte",
+      "address": "Av. San Bernardo 200",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Los Olivos",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F9"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "Reservas por WhatsApp. Reservas solo por WhatsApp: wa.link/wdf561 · Facebook: La12CampoDeportivo",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384",
+      "whatsapp": ""
+    },
+    {
+      "id": "pe-128",
+      "name": "El Balonazo",
+      "address": "Av. Las Palmetas Mz. H Lt. 2, La Ensenada",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Puente Piedra",
+      "country": "PE",
+      "phones": [
+        "987 604 104"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 30,
+        "max": 60,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-129",
+      "name": "Cancha San Roque de Rapayán",
+      "address": "Mz. I Lt. 4, Casa Huerta San Pedro",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Puente Piedra",
+      "country": "PE",
+      "phones": [
+        "962 606 676"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-130",
+      "name": "Campo Deportivo Sintético Las Magnolias",
+      "address": "Av. Ancón 852",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Puente Piedra",
+      "country": "PE",
+      "phones": [
+        "733 8827"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-131",
+      "name": "Cancha San Francisco",
+      "address": "Puente Piedra",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Puente Piedra",
+      "country": "PE",
+      "phones": [
+        "987 802 445"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-132",
+      "name": "El Mundialito Fútbol Club",
+      "address": "Prol. Juan Lecaros Mz. A Lt. 5",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "Puente Piedra",
+      "country": "PE",
+      "phones": [
+        "998 030 067"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-133",
+      "name": "Complejo Deportivo Héctor Chumpitaz",
+      "address": "Av. Chillón Lt. 17, Km 23.5 Panamericana Norte",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Martín de Porres",
+      "country": "PE",
+      "phones": [
+        "994 094 301",
+        "537 3019"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7",
+        "F11"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-134",
+      "name": "Complejo Deportivo FullGol 7",
+      "address": "Av. Canta Callao Parcela 59",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Martín de Porres",
+      "country": "PE",
+      "phones": [
+        "945 390 539"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-135",
+      "name": "Cancha Sintética Champions II",
+      "address": "San Martín de Porres",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Martín de Porres",
+      "country": "PE",
+      "phones": [
+        "995 932 836"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-136",
+      "name": "Parque Ecológico Municipal SMP",
+      "address": "Av. Angélica Gamarra cdra. 23",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Martín de Porres",
+      "country": "PE",
+      "phones": [
+        "200 2500"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-137",
+      "name": "Cancha La 10 SJL",
+      "address": "Jr. Los Naranjos 160",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Juan de Lurigancho",
+      "country": "PE",
+      "phones": [
+        "388 8913"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-138",
+      "name": "77 Sport Zárate",
+      "address": "Av. Lurigancho 991, Urb. Zárate",
+      "reference": "Costado de Aldeas Infantiles SOS",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Juan de Lurigancho",
+      "country": "PE",
+      "phones": [
+        "(01) 376 8153",
+        "(01) 726 2568",
+        "981 086 579"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 40,
+        "max": 80,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "lockers"
+      ],
+      "schedule": {
+        "all": "08:00-00:00"
+      },
+      "notes": "L-V 8-13h S/40, 13-18h S/60; noche y fines de semana S/60-80. Incluye chalecos, guantes y pelota",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-139",
+      "name": "La Blanquirroja",
+      "address": "Av. Próceres de la Independencia 142-A",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Juan de Lurigancho",
+      "country": "PE",
+      "phones": [
+        "374 2878"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-140",
+      "name": "Maracanito Canchas Sintéticas",
+      "address": "San Juan de Lurigancho",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Juan de Lurigancho",
+      "country": "PE",
+      "phones": [
+        "973 866 694"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-141",
+      "name": "Campo Deportivo El Campín",
+      "address": "Calle San Luis Gonzaga 711-721, Urb. Azcarrunz Bajo",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Juan de Lurigancho",
+      "country": "PE",
+      "phones": [
+        "400 6003"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-142",
+      "name": "77 Sport Mariscal",
+      "address": "San Juan de Lurigancho",
+      "reference": "",
+      "department": "Lima",
+      "province": "Lima",
+      "district": "San Juan de Lurigancho",
+      "country": "PE",
+      "phones": [
+        "253 8631"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "https://www.futbolperuano.com/peru/mas-del-futbol-peruano/donde-alquilar-una-cancha-sintetica-en-lima-norte-para-las-pichangas-199384"
+    },
+    {
+      "id": "pe-143",
+      "name": "Marakana Canchas de Grass Sintético",
+      "address": "Av. Parra 348, Cercado",
+      "reference": "",
+      "department": "Arequipa",
+      "province": "Arequipa",
+      "district": "Arequipa",
+      "country": "PE",
+      "phones": [
+        "(054) 958 9594",
+        "(241) 084 9580"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "cafeteria"
+      ],
+      "schedule": null,
+      "notes": "Campos enmallados con protección solar, TV cable y snack. Facebook: MARAKANA Arequipa",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-144",
+      "name": "Club Chilina – Canchas Sintéticas",
+      "address": "Chilina",
+      "reference": "",
+      "department": "Arequipa",
+      "province": "Arequipa",
+      "district": "Alto Selva Alegre",
+      "country": "PE",
+      "phones": [
+        "+51 915 184 059"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-145",
+      "name": "Complejo Campestre Deportivo Puma Sport",
+      "address": "Ampliación Cerro Juli, costado de la FIA",
+      "reference": "Frente a Trans Marvisur",
+      "department": "Arequipa",
+      "province": "Arequipa",
+      "district": "José Luis Bustamante y Rivero",
+      "country": "PE",
+      "phones": [
+        "959 170 282"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking",
+        "cafeteria"
+      ],
+      "schedule": null,
+      "notes": "Cancha de 800 m², estacionamiento para 50 vehículos, zona parrillera",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-146",
+      "name": "Cancha Kolping",
+      "address": "Arequipa",
+      "reference": "",
+      "department": "Arequipa",
+      "province": "Arequipa",
+      "district": "Arequipa",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "Teléfono parcial en PlanetaPerú (9736410…), no verificable",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-147",
+      "name": "Complejo Goles & Más",
+      "address": "Asociación San Ignacio C-2, Av. Vidaurrázaga",
+      "reference": "",
+      "department": "Arequipa",
+      "province": "Arequipa",
+      "district": "Arequipa",
+      "country": "PE",
+      "phones": [
+        "(054) 665 002",
+        "954 656 747",
+        "979 717 910"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6",
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 80,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "lighting",
+        "parking",
+        "restrooms",
+        "showers"
+      ],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "F6: S/50 día / S/70 noche; F7: S/60 día / S/80 noche. Web: golesymas.com.pe",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-148",
+      "name": "Canchas sintéticas de Cayma",
+      "address": "Cayma",
+      "reference": "",
+      "department": "Arequipa",
+      "province": "Arequipa",
+      "district": "Cayma",
+      "country": "PE",
+      "phones": [],
+      "surface": "natural",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 50,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting"
+      ],
+      "schedule": null,
+      "notes": "Grass natural. Teléfono parcial en PlanetaPerú (959671…), no verificable",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-149",
+      "name": "El Recinto Estadios",
+      "address": "Av. Seoane cdras. 7-8",
+      "reference": "Costado de la residencial magisterial El Golf",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Víctor Larco Herrera",
+      "country": "PE",
+      "phones": [
+        "993 568 649",
+        "(044) 28 7262",
+        "993 568 653"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "Local de 3 000 m²; también cancha de vóley. Email: elrecintoestadios@gmail.com · Web: elrecintoestadios.com",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-150",
+      "name": "La Cancha – Trujillo",
+      "address": "Av. Paisajista s/n, Urb. Talentos",
+      "reference": "",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Trujillo",
+      "country": "PE",
+      "phones": [
+        "(044) 60 7760"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 112,
+        "max": 140,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [],
+      "schedule": {
+        "all": "05:00-00:00"
+      },
+      "notes": "Día S/112 (06-17h), noche S/140 (18h en adelante). Razón social: La Cancha Talentos S.A.C.",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-151",
+      "name": "Complejo Deportivo Soccer City",
+      "address": "Prol. Av. Huamán con Av. Juan Pablo II",
+      "reference": "",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Víctor Larco Herrera",
+      "country": "PE",
+      "phones": [
+        "(044) 67 5168",
+        "949 915 557",
+        "949 544 797"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 100,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "lockers",
+        "parking"
+      ],
+      "schedule": {
+        "all": "07:00-23:00"
+      },
+      "notes": "Día S/50, noche S/100. Incluye pelotas y chalecos; cancha de vóley y salón familiar. Web: soccercityperu.com",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-152",
+      "name": "Complejo Deportivo Aventura Soccer – Trujillo",
+      "address": "Mall Aventura Plaza Trujillo",
+      "reference": "",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Trujillo",
+      "country": "PE",
+      "phones": [
+        "(044) 61 2828",
+        "(044) 61 2829",
+        "949 421 424"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F6",
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 60,
+        "max": 120,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting",
+        "parking",
+        "lockers",
+        "cafeteria"
+      ],
+      "schedule": {
+        "all": "07:00-01:00"
+      },
+      "notes": "F6: S/60 día / S/100 noche; F7: S/70 día / S/120 noche. Pelotas, chalecos, guantes, cancha de vóley",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-153",
+      "name": "Sport Center La Fuente",
+      "address": "Carretera a Huanchaco Km 7.5, sector Villa Los Ángeles",
+      "reference": "Espaldas del Colegio Militar Ramón Castilla",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Huanchaco",
+      "country": "PE",
+      "phones": [
+        "949 539 515"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "Local de 5 000 m²; alquiler de canchas de grass sintético",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-154",
+      "name": "Jano Soccer",
+      "address": "Av. 2 de Mayo 104 (Vía de Evitamiento), Buenos Aires",
+      "reference": "",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Víctor Larco Herrera",
+      "country": "PE",
+      "phones": [
+        "(044) 28 8170"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "parking"
+      ],
+      "schedule": {
+        "weekdays": "10:00-13:00",
+        "weekends": "07:00-13:00"
+      },
+      "notes": "Grabación de partidos en DVD. Email: jano-soccer@hotmail.com",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-155",
+      "name": "Complejo Deportivo Trujillo Soccer Club",
+      "address": "Psje. San José Mz. T Lt. 22, Urb. San Isidro",
+      "reference": "A 1 cdra. del Óvalo Mochica",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Trujillo",
+      "country": "PE",
+      "phones": [
+        "(044) 22 0842"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 60,
+        "max": 80,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "restrooms",
+        "showers"
+      ],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "Día S/60 (08-18h), noche S/80 (18-23h). Incluye pelotas y chalecos",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-156",
+      "name": "Complejo Deportivo Peloteros",
+      "address": "Av. Los Colibríes 500, Fundo Valeriano",
+      "reference": "",
+      "department": "La Libertad",
+      "province": "Trujillo",
+      "district": "Trujillo",
+      "country": "PE",
+      "phones": [
+        "(044) 60 8700"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 70,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "restrooms",
+        "showers"
+      ],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "Día S/50 (08-18h), noche S/70 (18-23h). Incluye pelotas y chalecos",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-157",
+      "name": "Complejo Deportivo La Cancha de Cusco",
+      "address": "Av. Las Américas E-24, Parque Industrial",
+      "reference": "",
+      "department": "Cusco",
+      "province": "Cusco",
+      "district": "Cusco",
+      "country": "PE",
+      "phones": [
+        "(084) 25 1414",
+        "948 312 128"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 70,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting",
+        "restrooms",
+        "showers",
+        "cafeteria"
+      ],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "Día S/50 (08-18h), noche S/70 (18-23h). Incluye pelotas y chalecos",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-158",
+      "name": "Cancha Sintética Sociedad de Beneficencia del Cusco",
+      "address": "Av. Antonio Lorena",
+      "reference": "Frente al ex terminal de Quillabamba",
+      "department": "Cusco",
+      "province": "Cusco",
+      "district": "Santiago",
+      "country": "PE",
+      "phones": [
+        "984 693 815",
+        "936 661 501"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-159",
+      "name": "Cancha Sintética Los Gemelos",
+      "address": "Pata Pata, San Jerónimo",
+      "reference": "",
+      "department": "Cusco",
+      "province": "Cusco",
+      "district": "San Jerónimo",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": 2,
+      "pricePerHour": null,
+      "services": [
+        "parking"
+      ],
+      "schedule": null,
+      "notes": "Dos campos de 800 m² con cochera. Contacto solo por Facebook: Los.gemelos.20",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-160",
+      "name": "Cancha Sintética Tuksap",
+      "address": "Cusco",
+      "reference": "",
+      "department": "Cusco",
+      "province": "Cusco",
+      "district": "Cusco",
+      "country": "PE",
+      "phones": [
+        "992 350 001",
+        "973 525 135"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-161",
+      "name": "Cancha Sintética El Búnker",
+      "address": "Cusco",
+      "reference": "",
+      "department": "Cusco",
+      "province": "Cusco",
+      "district": "Cusco",
+      "country": "PE",
+      "phones": [
+        "952 088 600"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": null,
+      "notes": "",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-162",
+      "name": "Livios Santa María FC",
+      "address": "Cusco",
+      "reference": "",
+      "department": "Cusco",
+      "province": "Cusco",
+      "district": "Cusco",
+      "country": "PE",
+      "phones": [],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [
+        "lighting",
+        "cafeteria"
+      ],
+      "schedule": null,
+      "notes": "Fútbol, vóley, fútbol de mesa y cafetería. Contacto solo por redes: Instagram @liviossantamaria · Facebook LIVIOSSANTAMARIA",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-163",
+      "name": "Club Victoria",
+      "address": "Calle Tumbes 296, Urb. Patazca",
+      "reference": "Detrás de Maestro Home Center",
+      "department": "Lambayeque",
+      "province": "Chiclayo",
+      "district": "Chiclayo",
+      "country": "PE",
+      "phones": [
+        "991 309 463",
+        "(074) 78 2626"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": null,
+      "services": [],
+      "schedule": {
+        "all": "08:00-00:00"
+      },
+      "notes": "",
+      "source": "búsqueda web (Páginas Amarillas, PlanetaPerú, Facebook, sitios propios)"
+    },
+    {
+      "id": "pe-164",
+      "name": "Club La Pichanga",
+      "address": "Av. Miguel Grau 850, Urb. Santa Victoria",
+      "reference": "",
+      "department": "Lambayeque",
+      "province": "Chiclayo",
+      "district": "Chiclayo",
+      "country": "PE",
+      "phones": [
+        "(074) 22 3511",
+        "979 452 920"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 70,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "lighting",
+        "restrooms",
+        "showers",
+        "cafeteria"
+      ],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "Día S/50 (08-18h), noche S/70 (18-23h). Incluye pelotas y chalecos",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-165",
+      "name": "Club La Canchita",
+      "address": "Av. Los Incas 280",
+      "reference": "",
+      "department": "Lambayeque",
+      "province": "Chiclayo",
+      "district": "La Victoria",
+      "country": "PE",
+      "phones": [
+        "(074) 23 7459"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 50,
+        "max": 70,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [],
+      "schedule": {
+        "all": "08:00-23:00"
+      },
+      "notes": "Día S/50 (08-18h), noche S/70 (18-23h)",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    },
+    {
+      "id": "pe-166",
+      "name": "Campos Deportivos La 12 – Piura",
+      "address": "Av. Panamericana Norte Sub Lote A-1, Urb. El Chipe",
+      "reference": "Junto al Tótem",
+      "department": "Piura",
+      "province": "Piura",
+      "district": "Piura",
+      "country": "PE",
+      "phones": [
+        "(073) 60 7610",
+        "(073) 61 8152",
+        "980 281 327"
+      ],
+      "surface": "sintético",
+      "types": [
+        "F7"
+      ],
+      "courts": null,
+      "pricePerHour": {
+        "min": 60,
+        "max": 120,
+        "currency": "PEN",
+        "unit": "hora"
+      },
+      "services": [
+        "cafeteria",
+        "lighting",
+        "lockers",
+        "parking",
+        "showers"
+      ],
+      "schedule": {
+        "all": "06:00-00:00"
+      },
+      "notes": "06-14h S/60, 14-18h S/80, desde 18h S/120. Incluye camisetas, árbitro y pelotas. Cerrado domingos",
+      "source": "https://www.deperu.com/esparcimiento/campos-deportivos/"
+    }
+  ]
+}

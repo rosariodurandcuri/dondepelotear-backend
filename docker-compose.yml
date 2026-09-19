@@ -1,0 +1,20 @@
+# Base de datos PostgreSQL para desarrollo local.
+#   docker compose up -d      → inicia
+#   docker compose down       → detiene (los datos quedan en el volumen)
+#   docker compose down -v    → detiene y borra los datos
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: canchaya-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: canchaya
+      POSTGRES_PASSWORD: canchaya
+      POSTGRES_DB: canchaya
+    ports:
+      - "5432:5432"
+    volumes:
+      - canchaya-pgdata:/var/lib/postgresql/data
+
+volumes:
+  canchaya-pgdata:

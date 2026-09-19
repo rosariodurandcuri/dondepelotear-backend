@@ -1,0 +1,36 @@
+{
+  "name": "canchaya-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "API de ChapaTuCancha (Bun + Elysia + Prisma + PostgreSQL)",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts",
+    "start": "bun run src/index.ts",
+    "db:generate": "prisma generate",
+    "db:migrate": "prisma migrate dev",
+    "db:deploy": "prisma migrate deploy",
+    "db:seed": "bun run prisma/seed.ts",
+    "db:reset": "prisma migrate reset --force",
+    "db:studio": "prisma studio",
+    "db:local": "prisma dev",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "bun run tests/api.e2e.ts"
+  },
+  "dependencies": {
+    "@elysiajs/cors": "^1.4.2",
+    "@elysiajs/openapi": "^1.4.16",
+    "@prisma/adapter-pg": "^7.10.0",
+    "@prisma/client": "^7.10.0",
+    "dotenv": "^17.4.2",
+    "elysia": "^1.4.30",
+    "jose": "^6.1.0",
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/pg": "^8.15.0",
+    "prisma": "^7.10.0",
+    "typescript": "^5.9.0"
+  }
+}

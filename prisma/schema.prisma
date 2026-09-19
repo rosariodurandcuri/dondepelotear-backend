@@ -1,0 +1,222 @@
+// ESQUEMA DE LA BASE DE DATOS (PostgreSQL)
+// -----------------------------------------
+// Equivale a las colecciones del MVP en localStorage: users, fields,
+// availability, bookings, reviews (+ favorites y counters).
+//
+// Convenciones (iguales al frontend):
+//   - Fechas: texto "YYYY-MM-DD"   (ej. "2026-09-20")
+//   - Horas:  texto "HH:MM" en 24h (ej. "20:00")
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+  runtime  = "bun"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// ---------------------------------------------------------------- Enums
+
+enum Role {
+  PLAYER
+  OWNER
+  ADMIN
+}
+
+enum FieldType {
+  F5
+  F6
+  F7
+  F8
+  F9
+  F11
+}
+
+/// Publicación de la cancha
+enum FieldStatus {
+  DRAFT
+  PUBLISHED
+  HIDDEN
+}
+
+/// Aprobación por el administrador
+enum ApprovalStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+/// Solo se guardan las EXCEPCIONES; lo demás dentro del horario es AVAILABLE
+enum SlotStatus {
+  BOOKED
+  BLOCKED
+}
+
+enum BookingStatus {
+  CONFIRMED
+  PENDING
+  CANCELLED
+  COMPLETED
+}
+
+enum PaymentStatus {
+  PENDING
+  PAID
+  REFUNDED
+}
+
+// ---------------------------------------------------------------- Modelos
+
+model User {
+  id           String   @id @default(cuid())
+  name         String
+  email        String   @unique
+  passwordHash String?  // null para cuentas creadas con Google/Facebook
+  phone        String   @default("")
+  whatsapp     String   @default("")
+  role         Role     @default(PLAYER)
+  provider     String?  // "google" | "facebook" cuando entra con red social
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  fields    Field[]
+  bookings  Booking[]
+  reviews   Review[]
+  favorites Favorite[]
+
+  @@map("users")
+}
+
+model Field {
+  id             String         @id @default(cuid())
+  ownerId        String
+  owner          User           @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  name           String
+  description    String         @default("")
+  types          FieldType[]    // una sede puede ofrecer varios tipos; el primero es el principal
+  whatsapp       String         @default("")
+  phones         String[]       @default([]) // teléfonos publicados (fijos y celulares)
+  /// null = precio no publicado (no se puede reservar en línea; se consulta por WhatsApp/teléfono)
+  pricePerHour   Decimal?       @db.Decimal(10, 2)
+  priceMax       Decimal?       @db.Decimal(10, 2) // precio máximo cuando el local publica un rango
+  currency       String         @default("PEN")
+  address        String
+  reference      String         @default("")
+  department     String
+  province       String
+  district       String
+  country        String         @default("PE")
+  latitude       Float?
+  longitude      Float?
+  images         String[]       @default([])
+  services       String[]       @default([])
+  /// { mon: { open: "08:00", close: "23:00", closed: false }, tue: {...}, ... }
+  schedule       Json
+  surface        String?        // "sintético", "natural"...
+  courts         Int?           // número de canchas del local
+  notes          String         @default("") // observaciones (ej. "precio de noche S/ 150")
+  source         String?        // de dónde salió el dato (directorios públicos)
+  status         FieldStatus    @default(PUBLISHED)
+  approvalStatus ApprovalStatus @default(APPROVED)
+  createdAt      DateTime       @default(now())
+  updatedAt      DateTime       @updatedAt
+
+  availability Availability[]
+  bookings     Booking[]
+  reviews      Review[]
+  favorites    Favorite[]
+
+  @@index([status, approvalStatus])
+  @@index([department, province, district])
+  @@index([ownerId])
+  @@map("fields")
+}
+
+/// Horarios reservados o bloqueados. La restricción UNIQUE (fieldId, date, startTime)
+/// es la que impide que dos personas reserven el mismo horario a la vez.
+model Availability {
+  id        String     @id @default(cuid())
+  fieldId   String
+  field     Field      @relation(fields: [fieldId], references: [id], onDelete: Cascade)
+  date      String     @db.Char(10) // "YYYY-MM-DD"
+  startTime String     @db.Char(5)  // "HH:MM"
+  endTime   String     @db.Char(5)
+  status    SlotStatus
+  bookingId String?
+  booking   Booking?   @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+  reason    String?
+  createdAt DateTime   @default(now())
+
+  @@unique([fieldId, date, startTime])
+  @@index([bookingId])
+  @@map("availability")
+}
+
+model Booking {
+  id                   String        @id @default(cuid())
+  bookingCode          String        @unique // CTC-2026-00125
+  userId               String?       // null cuando reserva un invitado sin cuenta
+  user                 User?         @relation(fields: [userId], references: [id], onDelete: SetNull)
+  fieldId              String
+  field                Field         @relation(fields: [fieldId], references: [id], onDelete: Restrict)
+  date                 String        @db.Char(10)
+  startTime            String        @db.Char(5) // inicio del primer bloque
+  endTime              String        @db.Char(5) // fin del último bloque
+  /// [{ startTime: "10:00", endTime: "12:00" }, ...] (bloques, pueden no ser consecutivos)
+  slots                Json
+  hours                Int
+  totalPrice           Decimal       @db.Decimal(10, 2)
+  status               BookingStatus @default(CONFIRMED)
+  customerFirstName    String
+  customerLastName     String
+  customerPhone        String
+  customerEmail        String
+  paymentMethod        String        @default("yape")
+  paymentStatus        PaymentStatus @default(PENDING)
+  paymentTransactionId String?
+  cancelledAt          DateTime?
+  createdAt            DateTime      @default(now())
+  updatedAt            DateTime      @updatedAt
+
+  availability Availability[]
+
+  @@index([fieldId, date])
+  @@index([userId])
+  @@index([customerEmail])
+  @@map("bookings")
+}
+
+model Review {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  fieldId   String
+  field     Field    @relation(fields: [fieldId], references: [id], onDelete: Cascade)
+  rating    Int      // 1 a 5
+  comment   String   @default("")
+  createdAt DateTime @default(now())
+
+  @@index([fieldId])
+  @@map("reviews")
+}
+
+model Favorite {
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  fieldId   String
+  field     Field    @relation(fields: [fieldId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@id([userId, fieldId])
+  @@map("favorites")
+}
+
+/// Contadores correlativos (ej. número de reserva para el código CTC-2026-00125)
+model Counter {
+  key   String @id
+  value Int    @default(0)
+
+  @@map("counters")
+}
